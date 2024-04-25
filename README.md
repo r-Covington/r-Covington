@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @r-Covington
+- 👋 Hi, I’m @r-Covington a.k.a Ree
 - 👀 I’m interested in becoming a tech artist
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on simple projects with a learning curve for beginners
